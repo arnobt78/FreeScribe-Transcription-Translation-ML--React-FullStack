@@ -1,4 +1,4 @@
-# FreeScribe — ML-Powered Transcription & Translation Web App
+# FreeScribe — ML-Powered Transcription & Translation React Web App
 
 ![Screenshot 2024-09-06 at 16 57 25](https://github.com/user-attachments/assets/d6d0c53e-5b3e-4d49-b6e8-1dfbc6808a0f) ![Screenshot 2024-09-06 at 16 57 51](https://github.com/user-attachments/assets/ce94c628-8103-44d0-ae0e-4f7dc184f404) ![Screenshot 2024-09-06 at 16 58 10](https://github.com/user-attachments/assets/794bde3c-d08d-43cc-9e49-eb44033fe4a6) ![Screenshot 2024-09-06 at 16 58 17](https://github.com/user-attachments/assets/3ae53a9c-7908-4e09-bdbf-0e922a436789) ![Screenshot 2024-09-06 at 16 58 30](https://github.com/user-attachments/assets/77398251-b28d-4194-a27c-52690589d3bf) ![Screenshot 2024-09-06 at 16 58 48](https://github.com/user-attachments/assets/cf804485-b6ad-4fa3-8040-9a26fe7845b9) ![Screenshot 2024-09-06 at 16 59 46](https://github.com/user-attachments/assets/98b2b40f-d2fc-4c03-bead-d80b91fc1ed9)
 
