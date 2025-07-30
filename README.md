@@ -8,7 +8,7 @@
 
 **FreeScribe** is a modern, open-source transcription and translation web application that leverages on-device machine learning models, running entirely in your browser using Web Workers. Users can record or upload audio, transcribe speech to text, translate between languages, and export the results — all with privacy and speed, without sending data to any backend server.
 
-- **Live demo:** [https://free-scribe-arnob.vercel.app/](https://free-scribe-arnob.vercel.app/)
+- **Live-Demo:** [https://free-scribe-arnob.vercel.app/](https://free-scribe-arnob.vercel.app/)
 
 ---
 
