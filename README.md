@@ -207,3 +207,15 @@ FreeScribe streamlines advanced speech-to-text and language translation—direct
 MIT License. © 2030 [arnobt78](https://github.com/arnobt78)
 
 ---
+
+## Happy Coding! 🎉
+
+Feel free to use this Project Repository and extend this project further!  
+
+If you have any questions or want to share your work, reach out via GitHub or my portfolio [https://arnob-mahmud.vercel.app/](https://arnob-mahmud.vercel.app/).
+
+**Enjoy building and learning!** 🚀
+
+Thank you! 😊
+
+---
